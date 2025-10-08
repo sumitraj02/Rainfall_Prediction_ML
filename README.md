@@ -17,7 +17,7 @@ The workflow follows standard ML stages such as **data preprocessing, explorator
 
 ## 🧠 Workflow
 
-![Project Workflow](./aabef33c-089c-4e80-868d-7b46ddc960b6.png)
+![Project Workflow](./screenshot(63).png)
 
 ### Steps Involved:
 
