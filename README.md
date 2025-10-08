@@ -17,7 +17,7 @@ The workflow follows standard ML stages such as **data preprocessing, explorator
 
 ## 🧠 Workflow
 
-![Project Workflow](./screenshot(63).png)
+![Project Workflow](./Screenshot1.png)
 
 ### Steps Involved:
 
@@ -27,10 +27,9 @@ The workflow follows standard ML stages such as **data preprocessing, explorator
 4. **Train-Test Split** – Split data into training and testing sets for model evaluation.
 5. **Model Building** – Implemented **Random Forest Classifier** for classification.
 6. **Hyperparameter Tuning** – Used **GridSearchCV** for tuning parameters to improve model accuracy and robustness.
-   ![Hyperparameter Tuning](./26e1becb-9996-4e5d-bb5e-585c45b9235c.png)
+   ![Hyperparameter Tuning]
 7. **Model Saving** – Serialized the trained model using **pickle** for future use.
 8. **Prediction** – Loaded the trained model and tested it on unknown data to make predictions.
-   ![Prediction Result](./98935651-3864-4c24-b6de-998e0ff46484.png)
 
 ---
 
@@ -71,7 +70,7 @@ The dataset used in this project is taken from [Kaggle](https://www.kaggle.com/)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/Rainfall_Prediction_ML.git
+   git clone https://github.com/sumitraj02/Rainfall_Prediction_ML.git
    cd Rainfall_Prediction_ML
    ```
 
